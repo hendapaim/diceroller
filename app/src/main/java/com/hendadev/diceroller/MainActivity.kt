@@ -16,11 +16,12 @@ class MainActivity : AppCompatActivity() {
         rollButton.setOnClickListener {
             numberText.text = numberRandom()
             //Toast.makeText(this, "Botão clicado", Toast.LENGTH_SHORT).show()
+            //Snackbar.make(this, R.id.number_text, Snackbar.LENGTH_SHORT).show()
         }
     }
 
     private fun numberRandom(): String {
-        val number = arrayOf(1,2,3,4,5,6)
+        val number = arrayOf(1, 2, 3, 4, 5, 6)
         return number[Random().nextInt(6)].toString()
     }
 }
