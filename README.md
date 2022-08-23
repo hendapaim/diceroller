@@ -1,18 +1,21 @@
-
 # diceroller
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Desenvolvimento de aplicativos android com Kotlin
 
 
 ## Screenshots
-<img width="249px" height= "460px" src="./Screenshot_20220823_012207.png" />
-![App Screenshot](./Screenshot_20220823_012246.png)
-![App Screenshot](./Screenshot_20220823_012305.png)
+
+<div style="display: inline_block">
+    <img width="249px" height= "460px" src="./Screenshot_20220823_012207.png" />
+    <img width="249px" height= "460px" src="./Screenshot_20220823_012246.png" />
+    <img width="249px" height= "460px" src="./Screenshot_20220823_012305.png" />
+</div>
+
 ## Instalação
 
-Instale diceroller com link: https://mega.nz/apk/dicerollapp
+Instale diceroller com link: <a href="https://mega.nz/apk/dicerollapp"> diceroller</a>
+
 
 ## Autor
 
 - [@katherinepeterson](https://www.github.com/hendapaim)
-
