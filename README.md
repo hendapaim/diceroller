@@ -18,4 +18,4 @@ Instale diceroller com link: <a href="https://mega.nz/apk/dicerollapp"> diceroll
 
 ## Autor
 
-- [@katherinepeterson](https://www.github.com/hendapaim)
+- [@hendapaim](https://www.github.com/hendapaim)
