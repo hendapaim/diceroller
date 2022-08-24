@@ -13,7 +13,7 @@ Desenvolvimento de aplicativos android com Kotlin
 
 ## Instalação
 
-Instale diceroller com link: <a href="https://mega.nz/apk/dicerollapp"> diceroller</a>
+Instale diceroller com link: <a href="https://bit.ly/3QP1awo"> diceroller</a>
 
 
 ## Autor
